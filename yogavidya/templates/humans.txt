@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Burak AKIN -- Developer -- @dtburakakin
 
 # THANKS
 
-    <name>
+    Everyone and yogavidya
 
 # TECHNOLOGY COLOPHON
-
+    Django
     HTML5, CSS3
     jQuery, Modernizr
