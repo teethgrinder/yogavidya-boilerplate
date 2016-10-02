@@ -5,12 +5,14 @@
 
 Welcome to YogaVidya's documentation!
 =====================================
-
+YogaVidya project start here 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   requirements
+   quick_start
 
 
 Indices and tables
